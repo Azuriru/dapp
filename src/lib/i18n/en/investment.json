@@ -1,0 +1,70 @@
+{
+	"title": "IWF Investment",
+	"benefits": {
+		"benefits1": "High Rewards and Zero Fee",
+		"benefits2": "100% Proof of Reserve",
+		"benefits3": "Redemption Arrives Without Delay"
+	},
+	"total_people_invested": "Total People Invested",
+	"Estimated APR": "Estimated APR",
+	"invest_now": "Invest Now",
+	"portfolio": "Portfolio",
+	"what": {
+		"title": "What is IWF Investment",
+		"desc": "Infinite Winner Hedge Fund is a licensed fund management company, collaboratively established with leading global financial institutions, Lion Group Holdings Limited (NASDAQ Code: LGHL), the Bin Zayed Al Nahyan Royal Fund from the Middle East, and the Van Waeyenberge family fund from Belgium. Dedicated to providing increased liquidity for market makers in the financial industry, our goal is to create an innovative investment social community for individual investors. We aim to disrupt traditional asset management, eliminate the monopoly of large financial institutions, reshape the future of investment"
+	},
+	"Days APR": "Days APR",
+	"how": {
+		"title": "How Does IWF Investment Work?",
+		"list": {
+			"1": "Commencement and strategic planning meetings, technical development and testing, and global broker recruitment.",
+			"2": "The establishment of a global investment community, integration of technology and finance, the launch of an AI investment assistant, and the expansion into digital assets represent key milestones in our strategic initiatives.",
+			"3": "The incorporation of innovative investment options and immersive virtual reality experiences, alongside sustainable investment choices, reflects our commitment to delivering a sophisticated and forward-thinking investment platform.",
+			"4": "Conducting rigorous testing on innovative payment functionalities and strategically expanding partnerships with global market collaborators signify our dedication to elevating financial services through progressive advancements.",
+			"5": "Emphasizing both risk management and customer experience, our commitment extends to the enhancement of risk management practices and the optimization of the overall customer journey.",
+			"6": "Ongoing strategy monitoring and refinement are integral aspects of our approach, complemented by the establishment of the Winner Fund champion meaningful and sustainable financial transformations globally."
+		}
+	},
+	"steps": {
+		"bind_upline": {
+			"title": "Bind Upline",
+			"desc": "You need to bind an upline before purchasing investment",
+			"go_bind_upline": "Go Bind Upline"
+		},
+		"deposit_usdt": {
+			"title": "Deposit USDT",
+			"desc": "Make a deposit to purchase your investment",
+			"deposit_now": "Deposit now"
+		},
+		"buy_investment_package": {
+			"title": "Buy Investment Package",
+			"desc": "Enjoy the fruitful benefits from the investment plan",
+			"invest_now": "Invest Now"
+		}
+	},
+	"faq": {
+		"title": "FAQ about IWF Investment",
+		"list": {
+			"q1": {
+				"title": "What distinguishes the Winner Hedge Fund Strategy in the financial market, and how does it contribute to shaping the landscape of investments?",
+				"answer": "The Winner Hedge Fund focuses on a market-making strategy, specifically designed to provide increased liquidity to financial markets. Additionally, it aims to establish an innovative investment social community for individual investors, disrupting traditional asset management models. By eliminating the monopoly of major financial institutions, Winner Hedge Fund seeks to reshape the future of investments, enabling widespread participation and benefiting everyone from the development of financial markets."
+			},
+			"q2": {
+				"title": "What are the technical advantages that distinguish the Winner Fund in the financial market?",
+				"answer": "The platform, equipped with the advanced FIX API and Universal Ledger, connects globally to offer a one-stop solution for trading various assets like stocks, bonds, derivatives, and digital currencies. It provides a unified trading software, a single clearing account, and advanced capabilities for quoting and order processing across global financial products. With open API interfaces for seamless liquidity, it covers spot, futures, derivatives, and CFDs.The platform also features the Phoenix intelligent trading algorithm service, utilizing AI technology for an enhanced user experience. For efficient data handling, it selects databases capable of quick extraction and aggregation, meeting the demands of algorithmic trading at 250K-1M events per second.Customer-centric in its approach, the platform uses internally built TWAP and VWAP calculation logic to ensure fair performance evaluations of AI algorithms. Phoenix stands out in the industry for its leading AI technology innovation achieved through rigorous technology selection and AI algorithm optimization."
+			},
+			"q3": {
+				"title": "What is the professional background and experience of the Winner Fund Professional Strategy Team?",
+				"answer": "The Chief Technology and Investment team of Winner Hedge Fund is comprised of professionals holding actuarial and Chartered Financial Analyst (CFA) qualifications. With over 15 years of expertise in quantitative and algorithmic trading, they manage a diverse range of assets including futures, securities, ETFs, warrants, commodities, fixed income, forex, and more. Team members have previously held key positions in leading international investment banks such as Credit Suisse, IMC Trading, and other globally top-ranked hedge fund firms."
+			}
+		}
+	},
+    "modal":{
+        "title": "IWF Investment",
+        "estimated_apr": "Estimated APR",
+        "amount": "Amount",
+        "available_balance": "Available Balance",
+        "rules": "Rules of Return: The staking reward will be distributed in the form of ETH2 based on users average ETH2 holdings over a period of 14 days.",
+        "confirm": "I understand that ETH will be converted to ETH2 on a 1:1 basis, and ETH2 will be the voucher for participating in ETH2.0 Staking."
+    }
+}

@@ -1,0 +1,26 @@
+{
+	"Estimated Balance": "Estimated Balance",
+	"WALLET": "WALLET",
+	"BALANCE": "BALANCE",
+	"ACTION": "ACTION",
+
+	"portfolio": {
+		"title": "Portfolio",
+		"Deposit": "Deposit",
+		"Withdraw": "Withdraw",
+		"Transfer": "Transfer",
+		"Swap": "Swap",
+		"Monitor your wallet and transactions conveniently in one place.": "Monitor your wallet and transactions conveniently in one place."
+	},
+	"balance": {
+		"title": "Balance",
+		"daily_debit": "DAILY DEBIT",
+		"daily_credit": "DAILY CREDIT"
+	},
+	"weekly_summary": {
+		"title": "Weekly Summary",
+		"debit": "DEBIT",
+		"credit": "CREDIT"
+	},
+	"Transaction History": "Transaction History"
+}

@@ -1,0 +1,12 @@
+{
+	"title": "Transaction Details",
+	"Serial Number": "Serial Number",
+	"Date / Time": "Date / Time",
+	"Transaction Type": "Transaction Type",
+	"Network": "Network",
+	"Product": "Product",
+	"Payment": "Payment",
+	"TXID": "TXID",
+	"To": "To",
+	"Interacted With": "Interacted With"
+}

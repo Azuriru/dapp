@@ -1,0 +1,194 @@
+{
+	"wallets": {
+		"REWARD": "Reward Wallet",
+		"CAPITAL": "Capital Wallet",
+		"EQUITY_PROFIT": "Equity Wallet"
+	},
+	"status": {
+		"success": "Success",
+		"failed": "Failed",
+		"pending": "Pending",
+		"accepted": "Accepted",
+		"processing": "Processing",
+		"rejected": "Rejected"
+	},
+	"transaction_type": {
+		"purchase": "Purchase",
+		"withdraw_fee": "Withdraw Fee",
+		"withdraw_refund_fee": "Withdraw Refund Fee",
+		"withdraw_refund": "Withdraw Refund",
+		"withdraw": "Withdraw",
+		"top_up": "Top Up",
+		"transfer_in": "Transfer In",
+		"transfer_out": "Transfer Out",
+		"transfer_fee": "Transfer Fee",
+		"swap_to": "Swap To",
+		"swap_from": "Swap From",
+		"admin_top_up": "Admin Top Up"
+	},
+	"error": {
+		"user:missing": "Missing User",
+		"user:not_verified": "User not verified",
+		"user:insufficient_balance": "Insufficient Balance",
+		"user:already_verified": "User is already verified",
+
+		"upline_address:missing": "Upline address is missing",
+		"upline_address:invalid_length|42": "Upline Address format is wrong",
+		"upline_address:invalid": "Upline address is invalid",
+		"upline_address:not_verified": "Upline is not verified",
+
+		"old_password:wrong": "Old Password is wrong",
+		"old_password:missing": "Old password is missing",
+		"old_password:min_length|8": "Old password must be at least 8 characters",
+		"old_password:max_length|16": "Old password must not exceed 16 characters",
+
+		"new_password:missing": "New password is missing",
+		"new_password:min_length|8": "New password must be at least 8 characters",
+		"new_password:max_length|16": "New password must not exceed 16 characters",
+		"new_password:must_have_capital_letter_lower_letter_and_numeric": "New password must contain at least one uppercase letter, one lowercase letter, and one numeric digit",
+
+		"confirm_password:missing": "Confirm password is missing",
+		"confirm_password:min_length|8": "Confirm password must be at least 8 characters",
+		"confirm_password:max_length|16": "Confirm password must not exceed 16 characters",
+		"confirm_password:not_match": "Passwords do not match",
+
+		"password:must_have_capital_letter_lower_letter_and_numeric": "Password must contain at least one uppercase letter, one lowercase letter, and one numeric digit",
+
+		"from_wallet:missing": "From wallet is missing",
+		"from_wallet:max_length|20": "From wallet must not exceed 20 characters",
+
+		"to_wallet:missing": "To wallet is missing",
+		"to_wallet:max_length|20": "To wallet must not exceed 20 characters",
+
+		"recipient:missing": "Recipient is missing",
+		"recipient:invalid_length|42": "Recipient address format is wrong",
+		"recipient:invalid": "Recipient address is invalid",
+		"recipient:cannot_send_to_self": "Cannot send to yourself",
+		"recipient:not_in_network": "Recipient is not in the network",
+
+		"coin:missing": "Coin is missing",
+		"coin:max_length|20": "Coin must not exceed 20 characters",
+		"coin:invalid": "Invalid coin",
+
+		"wallet:missing": "Wallet is missing",
+		"wallet:max_length|20": "Wallet must not exceed 20 characters",
+		"wallet:invalid": "Invalid wallet",
+		"wallet:invalid_pair": "Invalid wallet pair",
+
+		"id:missing": "ID is missing",
+		"id:must_be_number": "ID must be a number",
+		"id:max_length|11": "ID must not exceed 11 characters",
+
+		"amount:missing": "Amount is missing",
+		"amount:must_be_float": "Amount must be a floating-point number",
+		"amount:max_length|20": "Amount must not exceed 20 characters",
+		"amount:insufficient_balance": "Insufficient balance",
+
+		"fee:insufficient_balance": "Insufficient balance for the fee",
+
+		"txid:missing": "Transaction ID is missing",
+		"txid:min_length|60": "Transaction ID must be at least 60 characters",
+		"txid:max_length|70": "Transaction ID must not exceed 70 characters",
+		"txid:invalid_format": "Invalid transaction ID format",
+		"txid:invalid": "Invalid transaction ID",
+		"txid:exists": "Transaction ID already exists",
+
+		"early_bird:already_joined": "Already joined early bird",
+		"product:missing": "Product is missing",
+		"product:payment_missing": "Payment is missing",
+
+		"email:must_be_email": "Email must be a valid email address",
+		"nickname:max_length|40": "Nickname must not exceed 40 characters",
+		"facebook_url:max_length|150": "Facebook URL must not exceed 150 characters",
+		"instagram_url:max_length|150": "Instagram URL must not exceed 150 characters",
+		"twitter_url:max_length|150": "Twitter URL must not exceed 150 characters",
+		"telegram_url:max_length|150": "Telegram URL must not exceed 150 characters",
+
+		"email:unable_to_edit": "Unable to edit email",
+		"facebook_url:unable_to_edit": "Unable to edit Facebook URL",
+		"instagram_url:unable_to_edit": "Unable to edit Instagram URL",
+		"twitter_url:unable_to_edit": "Unable to edit Twitter URL",
+		"telegram_url:unable_to_edit": "Unable to edit Telegram URL",
+
+		"from_address:invalid": "Invalid 'From' address",
+		"to_address:invalid": "Invalid 'To' address",
+		"token_address:invalid": "Invalid token address",
+		"transaction:invalid": "Invalid transaction",
+		"deposit:invalid": "Invalid deposit",
+		"withdraw:invalid": "Invalid withdrawal",
+		"network:invalid": "Invalid network",
+
+		"package:invalid": "Package Invalid"
+	},
+	"currency": {
+		"USDTBSC": "USDT"
+	},
+	"network": {
+		"bscscan_testnet": "USDT-BSC (BEP20)"
+	},
+
+	"menu": {
+		"Dashboard": "Dasboard",
+		"Wallet": "Wallet",
+		"Investment": "Investment",
+		"Fund": "Fund"
+	},
+
+	"FAQ": "Frequently Asked Question",
+	"faqshort": "FAQ",
+	"more": "More",
+	"profile": "Profile",
+	"logout": "Log Out",
+	"select_language": "Select language",
+	"account_address": "Account Address",
+
+	"button": {
+		"close": "Close",
+		"save": "Save",
+		"confirm": "Confirm",
+		"View": "View",
+		"Go Back": "Go Back",
+		"terminate": "Terminate"
+	},
+
+	"toast": {
+		"address_copied": "Address Copied !",
+		"referral_url_copied": "Referral URL Copied !",
+		"jwt_error": "JWT Error, Please Login Again",
+		"token_expired": "Session expired, please login again",
+		"please_login": "Please login !",
+		"subscribed_earlybird": "You have subscribed Early Bird Program !",
+		"not_enough_balance": "Not Enough USDT Balance ! Please Top Up !",
+		"transaction_rejected": "Transaction Request Rejected !",
+		"wallet_not_balance": "Wallet Balance not enough !",
+		"wallet_not_found": "No Wallet Found",
+		"upline_binded": "Upline has been binded !",
+		"bind_failed": "Failed to Bind Upline, Please try again!",
+		"login_success": "Login Successful",
+		"rejected_request": "User Rejected the Request",
+		"login_first_bind": "Please Login First to Bind Upline",
+		"welcome_back": "Welcome Back",
+		"account_changed": "Account Changed, Reloading...",
+		"network_changed": "Network Changed, Reloading...",
+		"userinfo_updated": "User Info has been updated",
+		"min_usdt": "Minimum 0.01 USDT",
+		"select_coin_amount": "Please select coin & insert amount",
+		"fill_password": "All Password need to be filled",
+		"empty_email_nickname": "Email and Nickname cannot be empty",
+		"empty_upline": "Upline cannot be empty",
+		"min_100": "Minimum Invest Amount is 100 ",
+		"invest_success": "Invest Successful",
+		"coming_soon": "Coming Soon"
+	},
+	"table": {
+		"Date": "Date",
+		"Serial Number": "Serial Number",
+		"Transaction Type": "Transaction Type",
+		"Status": "Status",
+		"Amount": "Amount"
+	},
+
+	"no_data": "No Data Found",
+	"no_record": "No records were found at the moment...",
+	"stay_tuned": "Stay Tuned !"
+}

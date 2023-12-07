@@ -1,0 +1,292 @@
+{
+	"all_topics": "All Topics",
+	"faq_topics": "FAQ Topics",
+	"faq_articles": "FAQ Articles",
+	"popular_topics": "Popular Topics",
+	"back": "Back",
+	"Go Dashboard": "Go Dashboard",
+
+	"getting_started": {
+		"title": "Getting Started",
+		"questions": {
+			"q1": {
+				"title": "Why should I join as a Global Gold Medal Introducer Broker?",
+				"list": {
+					"1": "Joining as a Global Gold Medal Introducer Broker opens up a world of opportunities. As an early member, you gain access to exclusive benefits, including the allocation of shares in a listed company, a monthly allowance, and a lucrative monthly dividend on global earnings. This is your chance to be part of a select group enjoying unique advantages in the financial market."
+				}
+			},
+			"q2": {
+				"title": "How can I become a Global Gold Medal Introducer Broker?",
+				"list": {
+					"1": "Becoming a Global Gold Metal Introducer Broker is a simple process. Start by subscribing and following the specified investment requirements. Once you meet the criteria, you'll be on your way to enjoying the privileges and benefits reserved for our esteemed members."
+				}
+			},
+			"q3": {
+				"title": "What happens if I don't achieve a three-star level within 90 trading days?",
+				"list": {
+					"1": "If you don't achieve a three-star level within the stipulated 90 trading days, unfortunately, you will forfeit certain benefits, including weighted dividends, the monthly allowance, and stock equity. The three-star level is a performance benchmark that ensures active and engaged participation in our program."
+				}
+			},
+			"q4": {
+				"title": "Is there a limit to the number of Global Introducer Brokers accepted?",
+				"list": {
+					"1": "Yes, there is a limited number of slots available for Global Introducer Brokers. We are accepting a maximum of 100 individuals globally to ensure a personalized and exclusive experience for our members. Don't miss the chance to secure your spot in this unique opportunity."
+				}
+			},
+			"q5": {
+				"title": "Why should I activate 2FA (Two-Factor Authentication) and set a security password?",
+				"list": {
+					"1": "Yes, there is a limited number of slots available for Global Introducer Brokers. We are accepting a maximum of 100 individuals globally to ensure a personalized and exclusive experience for our members. Don't miss the chance to secure your spot in this unique opportunity."
+				}
+			}
+		}
+	},
+	"early_bird": {
+		"title": "Early Bird",
+		"questions": {
+			"q1": {
+				"title": "Why join Infinite Winner Hedge Fund?",
+				"list": {
+					"1": "Infinite Winner Hedge Fund is a licensed fund management company, collaboratively established with leading global financial institutions, Lion Group Holdings Limited (NASDAQ Code: LGHL), the Bin Zayed Al Nahyan Royal Fund from the Middle East, and the Van Waeyenberge family fund from Belgium. Dedicated to providing increased liquidity for market makers in the financial industry, our goal is to create an innovative investment social community for individual investors. We aim to disrupt traditional asset management, eliminate the monopoly of large financial institutions, reshape the future of investment, and enable everyone to participate and benefit from the development of financial markets."
+				}
+			},
+			"q2": {
+				"title": "What are the core advantages of Infinite Winner Hedge Fund?",
+				"list": {
+					"1": "Infinite Winner Hedge Fund provides a comprehensive array of core advantages, embracing inclusive finance, heightened liquidity, a socially engaging investment experience, accessible entry, transparency and educational resources, dedicated professional team support, and robust risk control measures. This encompasses the opportunity to serve as a market maker, partake in a socially interactive investment experience, and engage with a highly transparent operational framework."
+				}
+			},
+			"q3": {
+				"title": "How can one become a Winner Hedge Fund Introducer broker?",
+				"list": {
+					"1": "Becoming a Winner Hedge Fund Introducer broker is a straightforward process. Start by subscribing and adhering to the specified investment requirements. Once the criteria are met, you'll embark on a journey to enjoy the exclusive privileges and benefits reserved for our esteemed members."
+				}
+			},
+			"q4": {
+				"title": "What are the distinctive features of Winner Hedge Fund's equity fund strategy?",
+				"list": {
+					"1": "The equity fund strategy includes value exploration in undervalued U.S. and Hong Kong stocks, investment in IPOs, investment in convertible bonds (CB) of listed companies, and collaboration in launching SPACs (Special Purpose Acquisition Companies) for quality companies. These strategies are designed to uncover various investment opportunities in the equity market."
+				}
+			},
+			"q5": {
+				"title": "Why should I activate 2FA (Two-Factor Authentication) and set a security password?",
+				"list": {
+					"1": "Activating 2FA and setting a security password enhances the security of your account, providing an additional layer of protection against unauthorized access. This helps safeguard your personal and financial information, ensuring a secure and reliable trading experience."
+				}
+			}
+		}
+	},
+	"deposit": {
+		"title": "Deposit",
+		"questions": {
+			"q1": {
+				"title": "How to deposit crypto on IWF?",
+				"desc": "To deposit cryptocurrency, follow these steps",
+				"list": {
+					"1": "Log in to your IWF account. Navigate to the 'Wallet' tab and select 'Capital Wallet.' Click on 'Deposit' in the Capital Wallet section.",
+					"2": "In the crypto tab, choose the specific cryptocurrency for your deposit.",
+					"3": "Enter the deposit amount, ensuring it meets the minimum requirement. Confirm your wallet has sufficient coins for a smooth transaction.",
+					"4": "Select the appropriate blockchain network for the chosen cryptocurrency. Initiate the deposit by clicking 'Submit.'",
+					"5": "When prompted, confirm the transaction within your wallet. Avoid refreshing the page or interacting with other buttons during this step.",
+					"6": "Wait for the transaction to be broadcasted and confirmed on the blockchain. Patience is key, as this process may take some time.",
+					"7": "Once confirmed, the deposited amount will be reflected in your 'Capital Wallet.'"
+				}
+			},
+			"q2": {
+				"title": "What Should I Do if I Refresh or Navigate to Other Pages During Crypto Deposit Broadcasting?",
+				"list": {
+					"1": "Log in to your IWF account. Go to the 'Wallet' tab and select 'Capital Wallet.' Click on 'Deposit' in the Capital Wallet section.",
+					"2": "Navigate to the 'Manual Deposit' section.",
+					"3": "Input the Transaction ID (TxID) associated with your deposit.",
+					"4": "Confirm the accuracy of the provided TxID.",
+					"5": "Submit the manual deposit for processing.",
+					"6": "The amount will be deposited once verified on the blockchain.",
+					"7": "If you encounter any issues, please contact our support team for assistance."
+				}
+			},
+			"q3": {
+				"title": "What should I do if my crypto deposit is marked as 'Completed' but hasn't arrived in my account?",
+				"list": {
+					"1": "Verify Transaction Details. Double-check the accuracy of the transaction details, including the cryptocurrency, amount, and destination address.",
+					"2": "Use a blockchain explorer to confirm the transaction status on the blockchain.",
+					"3": "If details are correct and the blockchain shows the transaction as confirmed, contact platform support with the transaction ID for further assistance."
+				}
+			},
+			"q4": {
+				"title": "How to deal with a wrong deposit?",
+				"list": {
+					"1": "Stay calm. Mistakes happen, and many can be rectified.",
+					"2": "Verify the transaction on a blockchain explorer to confirm its status.",
+					"3": "Reach out to our support team with details of the transaction, including the incorrect address and transaction ID.",
+					"4": "Share relevant information promptly for quicker assistance.",
+					"5": "Follow any instructions provided by our support team to address the issue.",
+					"6": "Resolutions may take time. Be patient, and our team will work to assist you."
+				}
+			},
+			"q5": {
+				"title": "How long does it typically take for a cryptocurrency deposit to reflect in my account?",
+				"list": {
+					"1": "The processing time for cryptocurrency deposits varies but is usually relatively quick, depending on network confirmations."
+				}
+			},
+			"q6": {
+				"title": "Can I cancel a cryptocurrency deposit after initiating it?",
+				"list": {
+					"1": "Once a cryptocurrency deposit is initiated, it cannot be canceled. Double-check all details before confirming the deposit to avoid any issues."
+				}
+			}
+		}
+	},
+	"withdraw": {
+		"title": "Withdraw",
+		"questions": {
+			"q1": {
+				"title": "How to withdraw crypto on IWF?",
+				"desc": "To withdraw cryptocurrency, follow these steps",
+				"list": {
+					"1": "Log in to your IWF account. Navigate to the 'Wallet' tab and select 'Capital Wallet.' Click on 'Withdraw' in the Capital Wallet section.",
+					"2": "Select the cryptocurrency for withdrawal.",
+					"3": "Input the desired withdrawal amount.",
+					"4": "Ensure the withdrawal wallet address is correct.",
+					"5": "Choose the appropriate network for the withdrawal.",
+					"6": "Double-check withdrawal details, including the amount and wallet address.",
+					"7": "Confirm the withdrawal to initiate the transaction.",
+					"8": "Allow time for the platform to process your withdrawal request.",
+					"9": "Receive confirmation upon completion, with the withdrawn cryptocurrency reflected in your external wallet."
+				}
+			},
+			"q2": {
+				"title": "Withdrawal has not arrived?",
+				"desc": "If your withdrawal has not arrived, follow these steps for resolution:",
+				"list": {
+					"1": "Log in to your IWF account and navigate to [Wallet] - 'Capital Wallet.'",
+					"2": "Review the withdrawal record. If the status is 'Processing,' patiently wait for the confirmation process to be completed.",
+					"3": "If the status is 'Completed,' copy the TxID to check the transaction details and confirm the successful sending of funds using a blockchain explorer.",
+					"4": "If the funds haven't arrived at the receiving exchange or wallet, utilize the TxID to check and promptly contact them for details.",
+					"5": "Double-check all withdrawal details, including destination addresses, to ensure accuracy.",
+					"6": "If issues persist, reach out to IWF support, providing them with transaction details for further assistance."
+				}
+			},
+			"q3": {
+				"title": "What is the typical processing time for withdrawals?",
+				"list": {
+					"1": "The processing time for withdrawals varies depending on network congestion and other factors. Typically, it takes a few business days."
+				}
+			},
+			"q4": {
+				"title": "How can I track the status of my withdrawal?",
+				"list": {
+					"1": "You can track the status of your withdrawal by checking the transaction history in your account. If it's marked as 'Completed,' you can use the transaction ID (TxID) to check details on a blockchain explorer."
+				}
+			},
+			"q5": {
+				"title": "My withdrawal is marked as 'Processing.' How long should I wait?",
+				"list": {
+					"1": "If your withdrawal is in the 'Processing' status, please be patient and wait for the confirmation process to be completed. Processing times may vary."
+				}
+			},
+			"q6": {
+				"title": "Can I cancel a withdrawal after initiating it?",
+				"list": {
+					"1": "Once a withdrawal is initiated, it cannot be canceled. Double-check all details before confirming the withdrawal to avoid any issues."
+				}
+			},
+			"q7": {
+				"title": "What happens if I input the wrong withdrawal address?",
+				"list": {
+					"1": "Inputting the wrong withdrawal address can result in the loss of funds. Always double-check the withdrawal details, including the destination address, to ensure accuracy."
+				}
+			}
+		}
+	},
+	"transfer": {
+		"title": "Transfer",
+		"questions": {
+			"q1": {
+				"title": "How to transfer crypto to other users on IWF?",
+				"desc": "To transfer cryptocurrency between wallets, follow these steps",
+				"list": {
+					"1": "Log in to your IWF account. Navigate to the 'Wallet' tab and select 'Capital Wallet.' Click on 'Transfer' in the Capital Wallet section.",
+					"2": "Enter the recipient's wallet address.",
+					"3": "Specify the amount of cryptocurrency you wish to transfer.",
+					"4": "Review the transfer details, ensuring accuracy in the recipient address and amount.",
+					"5": "Confirm the transfer to initiate the transaction.",
+					"6": "Allow the platform some time to process your transfer.",
+					"7": "Upon completion, expect to receive confirmation, and the transferred cryptocurrency will reflect in the recipient's wallet."
+				}
+			},
+			"q2": {
+				"title": "Can I transfer cryptocurrency to another user on the platform?",
+				"list": {
+					"1": "Yes, you can transfer cryptocurrency to another user on the platform. Follow the same steps as a wallet-to-wallet transfer, ensuring you input the recipient's correct wallet address."
+				}
+			},
+			"q3": {
+				"title": "How long does it take for a cryptocurrency transfer to complete?",
+				"list": {
+					"1": "The processing time for cryptocurrency transfers depends on network confirmations and platform processing. Generally, it's relatively quick."
+				}
+			},
+			"q4": {
+				"title": "Do I need to pay fees for transferring cryptocurrency between wallets?",
+				"list": {
+					"1": "The platform may charge nominal fees for cryptocurrency transfers. Please check the fee structure in the platform guidelines."
+				}
+			},
+			"q5": {
+				"title": "Can I cancel a cryptocurrency transfer after initiating it?",
+				"list": {
+					"1": "Once a cryptocurrency transfer is initiated, it cannot be canceled. Double-check all details before confirming the transfer to avoid any issues."
+				}
+			},
+			"q6": {
+				"title": "Is there a limit to the amount I can transfer between wallets?",
+				"list": {
+					"1": "Transfer limits may vary based on the platform's policies. Check the platform guidelines or contact support for specific information on transfer limits."
+				}
+			}
+		}
+	},
+	"swap": {
+		"title": "Swap",
+		"questions": {
+			"q1": {
+				"title": "How to perform internal wallet swap on IWF?",
+				"desc": "To initiate a swap between wallets, follow these steps",
+				"list": {
+					"1": "Log in to your IWF account. Navigate to the 'Wallet' tab and select either 'Reward Wallet' or 'Equity Wallet' from which you wish to transfer. Click on 'Swap.'",
+					"2": "Choose the source wallet for the transfer.",
+					"3": "Specify the amount you want to transfer.",
+					"4": "Select the destination wallet.",
+					"5": "Review and confirm the transfer.",
+					"6": "Allow the platform sufficient processing time.",
+					"7": "Upon completion, you'll receive confirmation, and the transferred amount will be reflected in the destination wallet."
+				}
+			},
+			"q2": {
+				"title": "Is there a fee associated with wallet swaps?",
+				"list": {
+					"1": "The platform may charge nominal fees for wallet swaps. Check the fee structure in the platform guidelines."
+				}
+			},
+			"q3": {
+				"title": "How long does it typically take for a wallet swap to complete?",
+				"list": {
+					"1": "The processing time for wallet swaps depends on network confirmations and platform processing. Generally, it's relatively quick."
+				}
+			},
+			"q4": {
+				"title": "Can I cancel a wallet swap after initiating it?",
+				"list": {
+					"1": "Once a wallet swap is initiated, it cannot be canceled. Double-check all details before confirming the swap to avoid any issues."
+				}
+			},
+			"q5": {
+				"title": "Is there a limit to the amount I can swap between wallets?",
+				"list": {
+					"1": "Swap limits may vary based on the platform's policies. Check the platform guidelines or contact support for specific information on swap limits."
+				}
+			}
+		}
+	}
+}

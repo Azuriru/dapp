@@ -1,0 +1,84 @@
+{
+	"FAQ": {
+		"q1": {
+			"title": "Why should I join as a Global Gold Medal Introducer Broker?",
+			"answer": "Joining as a Global Gold Medal Introducer Broker opens up a world of opportunities. As an early member, you gain access to exclusive benefits, including the allocation of shares in a listed company, a monthly allowance, and a lucrative monthly dividend on global earnings. This is your chance to be part of a select group enjoying unique advantages in the financial market."
+		},
+		"q2": {
+			"title": "How can I become a Global Gold Medal Introducer Broker?",
+			"answer": "Becoming a Global Gold Metal Introducer Broker is a simple process. Start by subscribing and following the specified investment requirements. Once you meet the criteria, you'll be on your way to enjoying the privileges and benefits reserved for our esteemed members."
+		},
+		"q3": {
+			"title": "What happens if I don't achieve a three-star level within 90 trading days?",
+			"answer": "If you don't achieve a three-star level within the stipulated 90 trading days, unfortunately, you will forfeit certain benefits, including weighted dividends, the monthly allowance, and stock equity. The three-star level is a performance benchmark that ensures active and engaged participation in our program."
+		},
+		"q4": {
+			"title": "Is there a limit to the number of Global Introducer Brokers accepted?",
+			"answer": "Yes, there is a limited number of slots available for Global Introducer Brokers. We are accepting a maximum of 100 individuals globally to ensure a personalized and exclusive experience for our members. Don't miss the chance to secure your spot in this unique opportunity."
+		},
+		"q5": {
+			"title": "Why should I activate 2FA (Two-Factor Authentication) and set a security password?",
+			"answer": "Activating 2FA and setting a security password enhances the security of your account, providing an additional layer of protection against unauthorized access. This helps safeguard your personal and financial information, ensuring a secure and reliable trading experience."
+		}
+	},
+	"FAQ_earlybird": {
+		"q1": {
+			"title": "Why join Infinite Winner Hedge Fund?",
+			"answer": "Infinite Winner Hedge Fund is a licensed fund management company, collaboratively established with leading global financial institutions, Lion Group Holdings Limited (NASDAQ Code: LGHL), the Bin Zayed Al Nahyan Royal Fund from the Middle East, and the Van Waeyenberge family fund from Belgium. Dedicated to providing increased liquidity for market makers in the financial industry, our goal is to create an innovative investment social community for individual investors. We aim to disrupt traditional asset management, eliminate the monopoly of large financial institutions, reshape the future of investment, and enable everyone to participate and benefit from the development of financial markets."
+		},
+		"q2": {
+			"title": "What are the core advantages of Infinite Winner Hedge Fund?",
+			"answer": "Infinite Winner Hedge Fund provides a comprehensive array of core advantages, embracing inclusive finance, heightened liquidity, a socially engaging investment experience, accessible entry, transparency and educational resources, dedicated professional team support, and robust risk control measures. This encompasses the opportunity to serve as a market maker, partake in a socially interactive investment experience, and engage with a highly transparent operational framework."
+		},
+		"q3": {
+			"title": "How can one become a Winner Hedge Fund Introducer broker?",
+			"answer": "Becoming a Winner Hedge Fund Introducer broker is a straightforward process. Start by subscribing and adhering to the specified investment requirements. Once the criteria are met, you'll embark on a journey to enjoy the exclusive privileges and benefits reserved for our esteemed members."
+		},
+		"q4": {
+			"title": "What are the distinctive features of Winner Hedge Fund's equity fund strategy?",
+			"answer": "The equity fund strategy includes value exploration in undervalued U.S. and Hong Kong stocks, investment in IPOs, investment in convertible bonds (CB) of listed companies, and collaboration in launching SPACs (Special Purpose Acquisition Companies) for quality companies. These strategies are designed to uncover various investment opportunities in the equity market."
+		},
+		"q5": {
+			"title": "Why should I activate 2FA (Two-Factor Authentication) and set a security password?",
+			"answer": "Activating 2FA and setting a security password enhances the security of your account, providing an additional layer of protection against unauthorized access. This helps safeguard your personal and financial information, ensuring a secure and reliable trading experience."
+		}
+	},
+	"my_asset": "My Asset",
+	"early_bird": {
+		"title": "Early Bird Program",
+		"desc": "Limited spots for 100 individuals, each requiring a minimum investment of 5,000 USDT. participants must achieve a coveted three-star status within 90 trading days to unlock a range of unparalleled benefits, or risk forfeiting dividends and stock rights.",
+		"joined": "Joined",
+		"join_now": "Join Now",
+		"required_upline": "Required Upline"
+	},
+	"equity_activation": {
+		"title": "Equity Activation",
+		"completed": "Completed",
+		"not_set": "Not Set",
+		"done": "Done",
+		"view_equity_account": "View Equity Account",
+		"profile_verification": {
+			"title": "Profile Verification",
+			"desc": "Please enter your email correctly."
+		},
+		"security_password": {
+			"title": "Security Password",
+			"desc": "Please set your security password."
+		},
+		"bind_an_upline": {
+			"title": "Bind An Upline",
+			"desc": "Bind an upline with an address."
+		}
+	},
+	"modal": {
+		"title": "Become One of The Early Bird Members",
+		"desc": "By subscribing, you would becoming one of the few to join the benefits.",
+		"benefit1": "Allocation of $500 worth of shares in a listed company.",
+		"benefit2": "Monthly Commission of 300 USDT.",
+		"benefit3": "Enjoy a monthly dividend of 2% on global earnings.",
+		"confirm": "I confirm that my consensus to purchase Early Bird Package.",
+		"requirements": "Requirements",
+		"req1": "Limited to 100 people, with an investment amount of 5000U.",
+		"req2": "Achieve a three-star level within 90 trading days. Otherwise, dividends, commission, and stock equity will be canceled."
+	}
+}

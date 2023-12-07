@@ -1,0 +1,34 @@
+{
+	"title": "My Portfolio",
+	"summary": "Summary",
+	"total_invested": "Total Invested",
+	"total_yields": "Total Yields",
+	"daily_yields": "Daily Yields",
+	"tab": {
+		"active": "Active",
+		"inactive": "Inactive"
+	},
+	"days": "days",
+	"package": {
+		"early_bird": "Early Bird",
+		"investment": "Investment"
+	},
+	"portfolio_details": {
+		"title": "Portfolio Details",
+		"amount": "Amount",
+		"daily_roi": "Daily ROI",
+		"date_purchased": "Date Purchased",
+		"date_activated": "Date Activated",
+		"current_day_count": "Current Day Count",
+		"accumulated_commission": "Accumulated Commission",
+		"auto_subscribed": "Auto-Subscribe",
+		"desc": "Enable Auto-Subscribe to automatically resubscribe to this investment plan upon due date."
+	},
+	"title_value": {
+		"total_amount": "Total Amount",
+		"market_maker": "Market Maker Fund (90%)",
+		"equity_fund": "Equity Fund (10%)",
+		"current_day_count": "Current Day Count"
+	},
+	"remark": "*Remark: Details above will be finalized upon official launch."
+}

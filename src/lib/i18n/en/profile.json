@@ -1,0 +1,101 @@
+{
+	"title": "My Account",
+	"user": "User",
+	"rank": "Rank",
+	"tab": {
+		"profile": "Profile",
+		"security": "Security",
+		"referral": "Referral"
+	},
+	"qrcode": {
+		"title": "Share your referral code",
+		"desc": "Get your friend to join IWF just by scanning your code."
+	},
+	"profile": {
+		"title": "General Info",
+		"desc": "Edit your account's general information",
+		"profile_info": {
+			"title": "Profile Info",
+			"desc": "You may fill up the information below"
+		},
+		"email": "*Email",
+		"nickname": "*Nickname",
+		"social_profile": {
+			"title": "Social Profile",
+			"desc": "Let others find you on social media",
+			"facebook": "Facebook",
+			"twitter": "Twitter",
+			"instagram": "Instagram",
+			"telegram": "Telegram",
+			"confirm": "I confirm that the above details are accurate, and I acknowledge that upon information submitted I will need to contact Admin to change my information."
+		},
+		"verified": "Verified",
+		"unverified": "Unverified"
+	},
+
+	"security": {
+		"title": "Security",
+		"desc": "Setup your account's protection & security",
+		"change_password": {
+			"title1": "Change Password",
+			"title2": "Set Password",
+			"desc": "For an improved account security"
+		},
+		"confirm": "I confirm that the above details are accurate, and I approve to change my password.",
+		"old_password": "Old Password",
+		"new_password": "New Password",
+		"confirm_password": "Confirm Password"
+	},
+
+	"referral": {
+		"title": "Referral",
+		"desc": "Refer your friends to enjoy more benefits.",
+		"your_upline": {
+			"title": "Your Upline",
+			"desc": "This is the address that referred you."
+		},
+		"referral_address": {
+			"title": "Referral Address",
+			"desc": "Insert your upline's address to get verified."
+		},
+		"confirm": "I confirm that the upline address above is correct, and I agree to bind my account with the above address.",
+		"success": "You have successfully binded your upline ! 🎉"
+	},
+	"equity_account": {
+		"title": "Equity Account",
+		"desc": "Manage your equity account info.",
+		"completed": "Completed",
+		"set_now": "Set Now",
+		"bind_now": "Bind Now",
+		"done": "Done",
+		"activate": "Activate",
+		"requirements": {
+			"title": "Requirements",
+			"desc": "Please complete the list in order to activate your equity account"
+		},
+		"profile_verification": {
+			"title": "Profile Verification",
+			"desc": "Please enter your email correctly."
+		},
+		"security_password": {
+			"title": "Setup Security Password",
+			"desc": "Please set your security password."
+		},
+		"bind_an_upline": {
+			"title": "Bind An Upline",
+			"desc": "Bind an upline with an address."
+		},
+		"locked": {
+			"title": "Locked",
+			"desc": "Insert password to view your account details.",
+			"enter_your_password": "Enter Your Password"
+		},
+		"fund_account_info": {
+			"title": "Fund Account Info",
+			"desc": "Please do not share or disclosed any information within here.",
+			"username": "Username",
+			"password": "Password",
+			"fund_acc_url": "Fund Account URL"
+		}
+	}
+}
